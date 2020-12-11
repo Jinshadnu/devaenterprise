@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "248946227111",
+    "firebase_url": "https://deva-enterprises-thaikkad.firebaseio.com",
+    "project_id": "deva-enterprises-thaikkad",
+    "storage_bucket": "deva-enterprises-thaikkad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248946227111:android:6b6654d570917257b26882",
+        "android_client_info": {
+          "package_name": "com.vingcoz.devaenterprise"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "248946227111-1j8ov96s0mc1fchbkb4tip7n43kggl92.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vingcoz.devaenterprise",
+            "certificate_hash": "723e661815c1e7cbd11945b4a7c9144f416b1cd4"
+          }
+        },
+        {
+          "client_id": "248946227111-kho89o466f5ak44ik911pbj9q8ddsqmu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSH9vN16wed_WRstVBdhyQbPR8VYu2vB8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "248946227111-kho89o466f5ak44ik911pbj9q8ddsqmu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

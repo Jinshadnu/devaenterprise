@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Deva Enterprises Thaikkad</string>
+
+    <string name="title_activity_dash_board">Home</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="about_company">"ThaiValley” is manufacturer of Packaged Drinking Water under the venture Deva Enterprises located in Thaikkad, Thrissur. We started our journey in 1998 by Mr.Devassy. We were the main water supply in the Guruvayur temple. After his death in 2009, his son Mr.Jithesh took it over . The premium brand "Thai Valley" was launched in the market by Mr.Jithesh, managing director of the company. The launch was a phenomenal success due to strong distribution network and the expertise that the company had acquired. \n\nThe motive of the company is to provide quality product in all sizes at the best possible rates and make a unique brand name in the market through high-grade service and prompt response.</string>
+    <string name="title_activity_maps">Map</string>
+
+</resources>

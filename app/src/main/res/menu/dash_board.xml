@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_website"
+        android:orderInCategory="1"
+        android:title="Visit Website"
+        android:icon="@drawable/baseline_language_white_24dp"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_privacy_policy"
+        android:orderInCategory="100"
+        android:title="Privacy policy"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_update"
+        android:orderInCategory="100"
+        android:title="Check for update"
+        app:showAsAction="never" />
+</menu>
